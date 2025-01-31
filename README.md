@@ -8,6 +8,8 @@ I want visibility into what I tried, how I failed, and how I fixed it. There's a
 
 - [Using GitHub directly through CLI on Raspberry Pi OS](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/Setup/git.md)
 - [Set up local stream of Logitech c920 over WiFi](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/projects/motion-ip-camera.md)
+- [Set up a local RTX 5090 tracker on Windows](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/projects/RTX_5090_checker%20Windows/readme.md)
+- [Set up a local RTX 5090 tracker on the Raspberry Pi 5](https://github.com/Dr3wPdraw3rs/drewberrypi/tree/main/projects/RTX_5090%20checker%20Raspberry%20Pi)
 
 ## Equipment I'm using:
 
