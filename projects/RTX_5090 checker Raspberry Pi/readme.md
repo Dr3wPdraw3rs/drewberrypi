@@ -1,4 +1,4 @@
-# Running a little annoying GUI for in stock 5090's on Windows
+# Running a little annoying GUI for in stock 5090's on Raspberry Pi
 
 Currently this only works for NewEgg, BestBuy, and Amazon.
 
